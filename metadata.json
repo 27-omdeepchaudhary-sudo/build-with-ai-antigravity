@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Voice AI scheduling assistant powered by Gemini Live to parse client booking intents, check availability, and manage calendar blocks.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
