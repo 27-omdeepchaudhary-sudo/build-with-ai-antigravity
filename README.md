@@ -25,14 +25,6 @@ During the event, we built an AI-powered workspace from scratch and integrated a
 
 ---
 
-## ✨ Key Features Built
-
-* **[Feature 1 — e.g., Multi-Step Task Automation]:** *[Briefly describe what your agent automates, e.g., Generates and validates project scaffolding from natural language prompts.]*
-* **[Feature 2 — e.g., Gemini-Powered Intelligence]:** *[Briefly describe how Google AI Studio / Gemini API is used in your app.]*
-* **[Feature 3 — e.g., Interactive Workspace / UI]:** *[Briefly describe the user interface or CLI workflow you built.]*
-
----
-
 ## 🧰 Tech Stack
 
 * **Agentic Development Platform:** Google Antigravity (IDE / CLI / Agent Manager)
