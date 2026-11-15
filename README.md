@@ -171,7 +171,7 @@ cd build-with-ai-antigravity
 If the application uses the Gemini API, create a `.env` file:
 
 ```env
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here...(AQ.Ab8RN6Io1_5h_tXMeqVwLJG9SqZ2fUAgYu7kP0PrMLCdgrCqdw)
 ```
 
 **3. Install dependencies**
